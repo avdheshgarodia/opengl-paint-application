@@ -10,3 +10,6 @@ Filters such as Gaussian Blur
 
 Support for different types of brushes 
 
+Image Transformations
+
+
