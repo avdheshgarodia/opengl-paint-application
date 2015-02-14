@@ -4,6 +4,8 @@ Lot of features need to be added and will keep on adding as I come up with them.
 
 Things that I want to add
 Image Convolution
+
 Filters such as Gaussian Blur
+
 Support for different types of brushes 
 
